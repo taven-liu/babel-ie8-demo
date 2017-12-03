@@ -1,0 +1,6 @@
+@import 'theme';
+
+.test {
+  color: red;
+  background-color: var(--bg);
+}
